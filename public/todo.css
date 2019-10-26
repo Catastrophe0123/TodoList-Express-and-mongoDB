@@ -1,0 +1,15 @@
+#container {
+	border: 3px solid black;
+	margin: 100px auto;
+	width: 500px;
+	padding-left: 50px;
+}
+
+.completed {
+	text-decoration: line-through;
+	color: gray;
+}
+
+.asd{
+	display: none;
+}
